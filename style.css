@@ -86,3 +86,13 @@ strong {
 ::selection {
     background: #d8cbb8;
 }
+
+a {
+    color: #1f3552;
+    /* dunkelblau */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
